@@ -22,7 +22,7 @@ Este é um e-commerce da marca Sweet Dreams - Confeitaria, promovendo melhor vis
 
 
 <section class="Designers">
-  <h2> Designers </h2>
+  <h2> Desenvolvedores </h2>
 
 <table>
     <tr>
