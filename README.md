@@ -1,6 +1,6 @@
 # Desafio Final Gama Academy
 <div style="background-color:white" align="center">
-<img src="https://camo.githubusercontent.com/dda3bbe5c89cc7c9ebdfd3bd1741d0fd2ea13f136f9291c15e1bde2e5fae4a1d/68747470733a2f2f6465736166696f2d66696e616c2d6475736b792e76657263656c2e6170702f6173736574732f6c6f676f2d6c696768742e34613236303136382e706e67" width="300px" height="150" align="center" > 
+<img src="https://camo.githubusercontent.com/dda3bbe5c89cc7c9ebdfd3bd1741d0fd2ea13f136f9291c15e1bde2e5fae4a1d/68747470733a2f2f6465736166696f2d66696e616c2d6475736b792e76657263656c2e6170702f6173736574732f6c6f676f2d6c696768742e34613236303136382e706e67" width="300px" height="300" align="center" > 
 </div>
 
 <hr> 
