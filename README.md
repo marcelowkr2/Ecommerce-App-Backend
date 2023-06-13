@@ -89,9 +89,9 @@ Este é um e-commerce da marca Sweet Dreams - Confeitaria, promovendo melhor vis
 <section class="Documentação">
 
 ## Documentação
-<p> <a href="https://documenter.getpostman.com/view/25858603/2s93sW9Fid "> Deploy </a> </p>
-<p> <a href="https://documenter.getpostman.com/view/25858603/2s93sW9Fid> Documentação da API </a></p>
-<p> <a href="https://documenter.getpostman.com/view/25858603/2s93sW9Fid > Layout </a></p>
+<p> <a href="https://desafio-final-b0yd00m8y-fmascena.vercel.app/"> Deploy </a></p>
+<p> <a href="https://documenter.getpostman.com/view/25858603/2s93sW9Fid" > Documentação da API no Postman </a></p>
+<p> <a href="https://documenter.getpostman.com/view/25858603/2s93sW9Fid" > Layout </a></p>
 <p> <a href="https://trello.com"> Trello </a></p>
 </section>
 
